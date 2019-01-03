@@ -1,0 +1,1 @@
+sox /dirname/*.wav/ -r 16000 -b 16 -c 1 #16000采样率 16bit 1通道 
